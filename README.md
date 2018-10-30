@@ -18,7 +18,7 @@ and is a complete, working implementation.
 - global variables in function blocks using `global`
 - global constants using `define()`
 - (incomplete) standard library functions
-- unicode support for function/variable names and string values. PHP 6 compatible!
+- unicode support for function/variable names and string values. PHP 7 compatible!
 
 ![PHP 7 vs PyHP](/docs/php7-vs-pyhp.png?raw=true "Bench")
 
